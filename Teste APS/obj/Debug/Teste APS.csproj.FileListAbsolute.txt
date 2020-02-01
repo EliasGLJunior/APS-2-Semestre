@@ -1,0 +1,12 @@
+C:\Users\elias\OneDrive\Documentos\Visual Studio 2012\Projects\Teste APS\Teste APS\bin\Debug\Teste APS.exe.config
+C:\Users\elias\OneDrive\Documentos\Visual Studio 2012\Projects\Teste APS\Teste APS\obj\Debug\Teste APS.csprojResolveAssemblyReference.cache
+C:\Users\elias\OneDrive\Documentos\Visual Studio 2012\Projects\Teste APS\Teste APS\bin\Debug\Teste APS.exe
+C:\Users\elias\OneDrive\Documentos\Visual Studio 2012\Projects\Teste APS\Teste APS\bin\Debug\Teste APS.pdb
+C:\Users\elias\OneDrive\Documentos\Visual Studio 2012\Projects\Teste APS\Teste APS\obj\Debug\Teste APS.exe
+C:\Users\elias\OneDrive\Documentos\Visual Studio 2012\Projects\Teste APS\Teste APS\obj\Debug\Teste APS.pdb
+C:\Users\elias\Desktop\Teste APS\Teste APS\bin\Debug\Teste APS.exe.config
+C:\Users\elias\Desktop\Teste APS\Teste APS\obj\Debug\Teste APS.exe
+C:\Users\elias\Desktop\Teste APS\Teste APS\obj\Debug\Teste APS.pdb
+C:\Users\elias\Desktop\Teste APS\Teste APS\bin\Debug\Teste APS.exe
+C:\Users\elias\Desktop\Teste APS\Teste APS\bin\Debug\Teste APS.pdb
+C:\Users\elias\Desktop\Teste APS\Teste APS\obj\Debug\Teste APS.csprojResolveAssemblyReference.cache
